@@ -16,7 +16,6 @@ phases:
       - echo Installing NPM Packages
       - npm install
       - echo Running tests
-      - npm run package.json
   post_build:
     commands:
       - echo Entering Post_Build Phase
