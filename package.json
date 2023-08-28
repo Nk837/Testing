@@ -1,5 +1,5 @@
 {
-  "name": "deploy_to_lambda",
+  "name": "test-lambda",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
