@@ -4,8 +4,7 @@
   "description": "",
   "main": "handler.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
-  "int-test": "mocha --require babel-core/register --recursive test"
+    "test": "test"
   },
   "keywords": [],
   "author": "",
